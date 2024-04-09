@@ -9,3 +9,13 @@ body{
 footer{
   background-color: #a67f78;
 }
+
+.icon-box {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: 16px;
+  margin: 5px;
+  background: #ffffffa4;
+  transition: ease-in-out 0.3s;
+}
